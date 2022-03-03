@@ -4,7 +4,7 @@
         "mvt": {
             "type": "vector",
             "tiles": [
-                "https://github.com/tossetolab/ukraine-boundary/tree/main/xyz/{z}/{x}/{y}.pbf"
+                "https://tossetolab.github.io/ukraine-boundary/xyz/{z}/{x}/{y}.pbf"
             ]
         }
     },
